@@ -1,0 +1,2 @@
+vcs -kdb -sverilog -full64 -debug_access_all_reverse -f filelist_rv32i_single
+./simv -verdi &

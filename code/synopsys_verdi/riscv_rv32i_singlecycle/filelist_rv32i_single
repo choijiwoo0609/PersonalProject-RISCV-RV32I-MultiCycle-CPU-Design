@@ -1,0 +1,8 @@
+./CPU_RV32I.sv
+./ControlUnit.sv
+./DataPath.sv
+./MCU.sv
+./RAM.sv
+./ROM.sv
+./defines.sv
+./tb_rv32i_s.sv
